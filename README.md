@@ -38,9 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ansheshwar&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansheshwar&theme=radical&locale=en-IN&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ansheshwar&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p>
